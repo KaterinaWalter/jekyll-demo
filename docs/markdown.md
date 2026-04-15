@@ -18,19 +18,19 @@ nav_order: 1
 #### Heading 4
 
 This is a paragraph, just type as normal in markdown. But we can make certain 
-words **bold**, or _italic_, or `code (monospace)`, or even a link:
+words **bold**, or _italic_, or `monospace`, or a link:
 
 [Link to Just-the-Docs documentation](https://just-the-docs.com/)
 
-Bullet point lists:
+UNORDERED LISTS (bullet points):
 * Item 1
 * Item 2
 
-Numbered lists:
+ORDERED LISTS (numbered):
 1. Item 1
 2. Item 2
 
-Code BLOCKS (as opposed to `in-line` code):
+CODE BLOCKS (as opposed to `in-line code`):
 ```
 Code block without any specific language
 ```
